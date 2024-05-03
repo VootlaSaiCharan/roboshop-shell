@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ##### Change these values ###
-ZONE_ID="Z103214126L48SQW30RSR"
-DOMAIN="devopsb71.online"
+ZONE_ID="Z05174041KI1KF2YCVAZF"
+DOMAIN="devopsbatch.cloud"
 SG_NAME="allow-all"
 #############################
 
